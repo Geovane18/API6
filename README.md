@@ -57,7 +57,7 @@ Desenvolver e adicionar as funcionalidades
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   João Nicholas |                |
 | Scrum Master  | Geovane Nunes   |      (https://www.linkedin.com/in/geovanealnunes/)]     |
-| Team Member   | Kathellyn Monaliza  |     |
+| Team Member   | Kathellyn Monaliza  | (https://www.linkedin.com/in/kathellyn-monaliza-rodrigu%C3%AAs-pereira-6a304622b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    |
 | Team Member   | William Leão  |          |
 | Team Member   | Fabiana Vasques |      (https://www.linkedin.com/in/fabiana-vasques-7b9b5927?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]     |
 | Team Member   | Mariane Silva  |       (https://www.linkedin.com/in/mariane-aparecida-da-silva-ferreira-1b8152175?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]     |
