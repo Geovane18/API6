@@ -56,10 +56,10 @@ Desenvolver e adicionar as funcionalidades
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn       |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   João Nicholas |     [[Linkedin]]              |
-| Scrum Master  | Geovane Nunes   |      [![Linkedin Badge]     |
+| Scrum Master  | Geovane Nunes   |      [![Linkedin (https://www.linkedin.com/in/geovanealnunes/)]     |
 | Team Member   | Kathellyn Monaliza  | [![Linkedin Badge]     |
 | Team Member   | William Leão  |      [![Linkedin Badge]     |
-| Team Member   | Fabiana Vasques |      [![Linkedin [Badge](https://www.linkedin.com/in/fabiana-vasques-7b9b5927?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]     |
-| Team Member   | Mariane Silva  |      [![Linkedin [Badge](https://www.linkedin.com/in/mariane-aparecida-da-silva-ferreira-1b8152175?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]     |
+| Team Member   | Fabiana Vasques |      [![Linkedin (https://www.linkedin.com/in/fabiana-vasques-7b9b5927?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]     |
+| Team Member   | Mariane Silva  |      [![Linkedin (https://www.linkedin.com/in/mariane-aparecida-da-silva-ferreira-1b8152175?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]     |
 | Team Member   | Nicolas Alves  |      [![Linkedin Badge]     |
 
