@@ -43,7 +43,7 @@ Desenvolver e adicionar as funcionalidades
 * Microsoft Excel
 * Slack
 
-* # Backlog do produto
+# Backlog do produto
 
 ## Sprint 1. Concepção
 - [ ] Gerar relatorio;
