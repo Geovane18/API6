@@ -55,7 +55,7 @@ Desenvolver e adicionar as funcionalidades
    # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn       |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   João Nicholas |     [[Linkedin Badge]]              |
+| Product Owner |   João Nicholas |     [[Linkedin]]              |
 | Scrum Master  | Geovane Nunes   |      [![Linkedin Badge]     |
 | Team Member   | Kathellyn Monaliza  | [![Linkedin Badge]     |
 | Team Member   | William Leão  |      [![Linkedin Badge]     |
