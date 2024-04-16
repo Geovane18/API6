@@ -1,6 +1,6 @@
-# NOME DA EQUIPE
+# SanjaLog
 
-A Equipe (Nome da equipe) foi criada com o Intuito de conseguirmos desenvolver soluções praticas e ageis, analisando, debatendo e executando atividades de forma rapidas para que assim consigamos entregar um produto de qualidade, visando sempre atender além daquilo que o cliente espera.
+A Equipe SanjaLog foi criada com o Intuito de conseguirmos desenvolver soluções praticas e ageis, analisando, debatendo e executando atividades de forma rapidas para que assim consigamos entregar um produto de qualidade, visando sempre atender além daquilo que o cliente espera.
 
 # Índice 
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -23,7 +23,7 @@ Sprint | Previsão | Status|
 |Feira de Soluções|27/06/2024 |a fazer |
 
 # Objetivo do Projeto
-Este Produto tem como Objetivo atender a necessidade do cliente criando de uma forma facil e simples de solucionar seus problemas analisando e colocando como objetivo resolver as seguintes demandas;
+Este Produto tem como Objetivo atender a necessidade do cliente criando de uma forma facil e simples a solução de seus problemas, analisando e colocando como objetivo resolver as seguintes demandas;
 * A Fazer;
 * A Fazer;
 * A Fazer;
@@ -32,21 +32,21 @@ Este Produto tem como Objetivo atender a necessidade do cliente criando de uma f
 
 # Registro do Produto
 
-* Foi utilizado o SublimeText para escrever um código sendo assim podendo unitizar as tabelas para melhor vizualição;
+* Foi utilizado o SublimeText para escrever um código em Phyton, com isso conseguimos unitizar as tabelas para uma melhor vizualição;
 
-.Abaixo Podemos ver o Codigo utilizado para essa tarefa;
+Abaixo Podemos ver o Codigo utilizado;
 
 ![Phyton](https://github.com/Geovane18/API6/assets/163420675/cd65b734-b789-4d59-ac68-eccf15777bca)
 
 
 * Power BI criado para analise das entregas e Analise da produtividade sendo assim podendo ver detalhadamente cada rota e podendo apresentar soluções praticas.
 
- .Abaixo temos uma visão sobre a produtividade e relação das entregas estabelicidas entre as fabricas analisadas;
+ Abaixo temos uma visão sobre a produtividade e relação das entregas estabelicidas entre as fabricas analisadas;
 
 ![Produtividade e Entregas](https://github.com/Geovane18/API6/assets/163420675/6e5e3e3d-f8bb-41e3-9259-ab2b53852522)
 
 
-.Abaixo temos uma visão geral do que foi observado e verificado com as analises feitas para melhor entendimento;
+Observando o proximo anexo conseguimos ter uma visão geral do que foi observado e verificado com as analises feitas para melhor entendimento;
 
   ![ANALISE GERAL ](https://github.com/Geovane18/API6/assets/163420675/a0f0813a-5a5e-471c-8a4d-12830a99c438)
 
@@ -63,7 +63,6 @@ Este Produto tem como Objetivo atender a necessidade do cliente criando de uma f
 * Microsoft Excel
 * Slack
 * Canva
-* Word
 * SublimeText
 
 
@@ -111,7 +110,7 @@ Este Produto tem como Objetivo atender a necessidade do cliente criando de uma f
    # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn       |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   João Nicholas | 
+| Product Owner |   João Nicholas | [![Linkedin Badge](https://www.linkedin.com/in/nicholas-fran%C3%A7a-a87b19250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 | Scrum Master  | Geovane Nunes   |     
 | Team Member   | Kathellyn Monaliza  |   
 | Team Member   | William Leão  |     
