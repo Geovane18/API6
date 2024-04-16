@@ -4,7 +4,7 @@ A Equipe (Nome da equipe) foi criada com o Intuito de conseguirmos desenvolver s
 
 # Índice 
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros (vídeos e apresentações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
+* [Registro do Produto](#Registro do Produto)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Brudown)
 * [Autores](#autores)
