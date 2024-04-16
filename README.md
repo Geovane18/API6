@@ -34,19 +34,19 @@ Este Produto tem como Objetivo atender a necessidade do cliente criando de uma f
 
 * Foi utilizado o SublimeText para escrever um código sendo assim podendo unitizar as tabelas para melhor vizualição;
 
-- Abaixo Podemos ver o Codigo utilizado para essa tarefa;
+.Abaixo Podemos ver o Codigo utilizado para essa tarefa;
 
 ![Phyton](https://github.com/Geovane18/API6/assets/163420675/cd65b734-b789-4d59-ac68-eccf15777bca)
 
 
 * Power BI criado para analise das entregas e Analise da produtividade sendo assim podendo ver detalhadamente cada rota e podendo apresentar soluções praticas.
 
-- Abaixo temos uma visão sobre a produtividade e relação das entregas estabelicidas entre as fabricas analisadas;
+ .Abaixo temos uma visão sobre a produtividade e relação das entregas estabelicidas entre as fabricas analisadas;
 
 ![Produtividade e Entregas](https://github.com/Geovane18/API6/assets/163420675/6e5e3e3d-f8bb-41e3-9259-ab2b53852522)
 
 
-- Abaixo temos uma visão geral do que foi observado e verificado com as analises feitas para melhor entendimento;
+.Abaixo temos uma visão geral do que foi observado e verificado com as analises feitas para melhor entendimento;
 
   ![ANALISE GERAL ](https://github.com/Geovane18/API6/assets/163420675/a0f0813a-5a5e-471c-8a4d-12830a99c438)
 
