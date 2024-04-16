@@ -111,7 +111,7 @@ Observando o proximo anexo conseguimos ter uma visão geral do que foi observado
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn       |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   João Nicholas | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-fran%C3%A7a-a87b19250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-| Scrum Master  | Geovane Nunes   |     
+| Scrum Master  | Geovane Nunes   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/geovanealnunes)   
 | Team Member   | Kathellyn Monaliza  |   
 | Team Member   | William Leão  |     
 | Team Member   | Fabiana Vasques |     
