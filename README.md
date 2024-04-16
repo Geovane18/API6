@@ -35,9 +35,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 * Power BI criado para analise das entregas e Analise da produtividade sendo assim podendo ver detalhadamente cada rota e podendo apresentar soluções praticas.
 
-|Analise de Entregas|
 
-https://github.com/Geovane18/API6/issues/1#issue-2245833225
+![ANALISE DE ENTREGAS](https://github.com/Geovane18/API6/assets/163420675/288469cc-bbf3-495c-8353-a3c48428a5ea)
+
 
 
 ## Tecnologias Utilizadas
