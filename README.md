@@ -56,6 +56,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Power BI
 * Microsoft Excel
 * Slack
+* Canva
+* Word
+* Phyton
 
 # Backlog do produto
 
