@@ -31,9 +31,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * A Fazer;
 * A Fazer;
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
-Desenvolver e adicionar as funcionalidades
-* A apresentar funcionalidades;
+# Registro do Produto
+
+* Power BI criado para analise das entregas e Analise da produtividade sendo assim podendo ver detalhadamente cada rota e podendo apresentar soluções praticas.
+|Analise de Entregas|
+
 
 ## Tecnologias Utilizadas
 
