@@ -34,7 +34,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Registro do Produto
 
 * Power BI criado para analise das entregas e Analise da produtividade sendo assim podendo ver detalhadamente cada rota e podendo apresentar soluções praticas.
+
 |Analise de Entregas|
+
+https://github.com/Geovane18/API6/issues/1#issue-2245833225
 
 
 ## Tecnologias Utilizadas
