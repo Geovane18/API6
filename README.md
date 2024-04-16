@@ -4,7 +4,7 @@ A Equipe (Nome da equipe) foi criada com o Intuito de conseguirmos desenvolver s
 
 # Índice 
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Registro do Produto](#Registro do Produto)
+* [Registro do produto](#Registro-do-produto)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Brudown)
 * [Autores](#autores)
