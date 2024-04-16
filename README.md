@@ -6,7 +6,7 @@ A Equipe (Nome da equipe) foi criada com o Intuito de conseguirmos desenvolver s
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros (vídeos e apresentações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
 * [Backlog do produto](#Backlog-do-produto)
-* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Burndown](#Brudown)
 * [Autores](#autores)
 
 * # Projeto 
@@ -90,6 +90,11 @@ Este Produto tem como Objetivo atender a necessidade do cliente criando de uma f
 - [ ] Melhorar Interface do Produto
 - [ ] Entregar Produto final
 
+
+# Brudown
+
+
+![Brundown](https://github.com/Geovane18/API6/assets/163420675/a43f54a6-4cc2-4a18-ad8c-efd616cc7869)
 
 
       
