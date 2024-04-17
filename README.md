@@ -97,7 +97,7 @@ Observando o proximo anexo conseguimos ter uma visão geral do que foi observado
 - [ ] Entregar Produto final
 
 
-# Brudown
+# Burndown
 
 
 ![Brundown](https://github.com/Geovane18/API6/assets/163420675/a43f54a6-4cc2-4a18-ad8c-efd616cc7869)
