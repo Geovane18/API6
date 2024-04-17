@@ -1,6 +1,6 @@
 # SanjaLog
 
-A Equipe SanjaLog foi criada com o Intuito de conseguirmos desenvolver soluções praticas e ageis, analisando, debatendo e executando atividades de forma rapidas para que assim consigamos entregar um produto de qualidade, visando sempre atender além daquilo que o cliente espera.
+A Equipe SanjaLog foi projetado com o propósito de desenvolver soluções práticas e ágeis, adotando uma abordagem analítica, promovendo debates construtivos e executando atividades de forma eficiente. Seu objetivo principal é entregar produtos de alta qualidade, superando as expectativas dos clientes e proporcionando uma experiência excepcional. Comprometida com a excelência e a inovação, a equipe busca constantemente exceder os padrões do mercado e estabelecer novos patamares de satisfação do cliente.
 
 # Índice 
 * [Objetivo do Projeto](#objetivo-do-projeto)
