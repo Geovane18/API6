@@ -116,5 +116,5 @@ Observando o proximo anexo conseguimos ter uma visão geral do que foi observado
 | Team Member   | William Leão  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](     
 | Team Member   | Fabiana Vasques  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabiana-vasques-7b9b5927?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)     
 | Team Member   | Mariane Silva  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariane-aparecida-da-silva-ferreira-1b8152175?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)     
-| Team Member   | Nicolas Alves  |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](          
+| Team Member   | Nicolas Alves  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]         
 
