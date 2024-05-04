@@ -48,11 +48,9 @@ https://github.com/Geovane18/API6/assets/163420675/b4b7e0bd-1289-4b9e-9b90-b8ba8
 ![Produtividade e Entregas](https://github.com/Geovane18/API6/assets/163420675/6e5e3e3d-f8bb-41e3-9259-ab2b53852522)
 
 
-Observando o proximo anexo conseguimos ter uma visão geral do que foi observado e verificado com as analises feitas para melhor entendimento;
+* Codigo em SQL, foi criado um codigo em SQL unitizando as planilhas, e assim podendo nos informar de forma filtrada os fretes que queremos, no exemplo abaixo colocamos um filtro para verificar os fretes que o valor ultrapassaram 700 BRL
 
-  ![ANALISE GERAL ](https://github.com/Geovane18/API6/assets/163420675/a0f0813a-5a5e-471c-8a4d-12830a99c438)
-
-
+  https://www.youtube.com/watch?v=PVSEns9_qs8
 
 
 
