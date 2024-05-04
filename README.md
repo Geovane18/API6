@@ -50,7 +50,7 @@ https://github.com/Geovane18/API6/assets/163420675/b4b7e0bd-1289-4b9e-9b90-b8ba8
 
 * Codigo em SQL, foi criado um codigo em SQL unitizando as planilhas, e assim podendo nos informar de forma filtrada os fretes que queremos, no exemplo abaixo colocamos um filtro para verificar os fretes que o valor ultrapassaram 700 BRL
 
-  https://www.youtube.com/watch?v=PVSEns9_qs8
+ [ https://www.youtube.com/watch?v=PVSEns9_qs8](https://youtu.be/PVSEns9_qs8?si=AI6YN4lIhhgOThV6)
 
 
 
