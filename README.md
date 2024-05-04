@@ -6,7 +6,6 @@ A Equipe SanjaLog foi projetado com o propósito de desenvolver soluções prát
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Registro do produto](#Registro-do-produto)
 * [Backlog do produto](#Backlog-do-produto)
-* [Burndown](#Brudown)
 * [Autores](#autores)
 
 * # Projeto 
@@ -16,19 +15,18 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | 13/03/2024 | concluido|
-|01 | 17/04/2024 | em progresso|
-|02|  08/05/2024| a fazer |
+|01 | 17/04/2024 | concluido |
+|02|  08/05/2024| em progresso |
 |03| 29/05/2024 | a fazer|
 |04| 19/06/2024 |a fazer |
 |Feira de Soluções|27/06/2024 |a fazer |
 
 # Objetivo do Projeto
 Este Produto tem como Objetivo atender a necessidade do cliente criando de uma forma facil e simples a solução de seus problemas, analisando e colocando como objetivo resolver as seguintes demandas;
-* A Fazer;
-* A Fazer;
-* A Fazer;
-* A Fazer;
-* A Fazer;
+* Usar SQL para analise de dados 
+* Utilizar o Power BI para nova vizualização do DashBoard
+* Utilizar o Phyton para escrever um codigo e unificar as tabelas e assim achar a produtividade
+
 
 # Registro do Produto
 
@@ -36,7 +34,8 @@ Este Produto tem como Objetivo atender a necessidade do cliente criando de uma f
 
 Abaixo Podemos ver o Codigo utilizado;
 
-![Phyton](https://github.com/Geovane18/API6/assets/163420675/cd65b734-b789-4d59-ac68-eccf15777bca)
+![Phyton](https://github.com/Geovane18/API6/assets/163420675/31847681-be6d-4cbc-a763-913d0372b4ea)
+
 
 
 * Power BI criado para analise das entregas e Analise da produtividade sendo assim podendo ver detalhadamente cada rota e podendo apresentar soluções praticas.
@@ -68,29 +67,30 @@ Observando o proximo anexo conseguimos ter uma visão geral do que foi observado
 
 # Backlog do produto
 
-## Sprint 1. Concepção
+## Sprint 1
 - [x] Gerar relatorio;
 - [x] Analisar dados;
 - [x] Estruturar Sistemas;
 - [x] Criação do Back Log;
 - [x] Codigo em Phyton para unificar Tabelas;
 - [x] Criação de DashBoard para melhor vizualização;
-- [ ] Entender necessidade do cliente para resolução do problema;
+- [x] Entender necessidade do cliente para resolução do problema;
 
-## Sprint 2. Desenvolvimento
+## Sprint 2
 - [ ] Criação de uma tela para verificar custo por KM de cada caminhão;
 - [ ] Estruturar relatorio Sprint 2;
+- [x] Escrever um codigo em SQL para apresentar tabelas de dados 
 - [ ] Verificar Capacidade das fabricas;
 
-## Sprint 3. Execução
-- [ ] Relacionar dados em SQL;
+## Sprint 3.
+- [x] Relacionar dados em SQL;
 - [ ] Desenvolver tela de Evolução dos Custos de fretes (BI);
 - [ ] Desenvolver Tela para comparativo de Gastos antes e Depois da aplicação do produto;
 - [ ] Otimizar Rotas;
 - [ ] Integrar com APIs de mapas e serviços de trafegos para obter melhor informações sobre o trafego;
 - [ ] Estruturar Relarotio de entrega Sprint 3;
 
-## Sprint 4. Entrega
+## Sprint 4
 - [ ] Otimizar Ferramentas Utilizadas
 - [ ] Realizar Testes das funcionalidades
 - [ ] Melhorar Interface do Produto
