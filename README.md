@@ -34,7 +34,7 @@ Este Produto tem como Objetivo atender a necessidade do cliente criando de uma f
 
 Abaixo Podemos ver o Codigo utilizado;
 
-![Phyton](https://github.com/Geovane18/API6/assets/163420675/31847681-be6d-4cbc-a763-913d0372b4ea)
+https://github.com/Geovane18/API6/assets/163420675/31847681-be6d-4cbc-a763-913d0372b4ea
 
 
 
