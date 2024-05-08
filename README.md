@@ -80,10 +80,10 @@ https://github.com/Geovane18/API6/assets/163420675/b4b7e0bd-1289-4b9e-9b90-b8ba8
 - [x] Entender necessidade do cliente para resolução do problema;
 
 ## Sprint 2
-- [ ] Criação de uma tela para verificar custo por KM de cada caminhão;
-- [ ] Estruturar relatorio Sprint 2;
+- [x] Criação de uma tela para verificar custo por KM de cada caminhão;
+- [x] Estruturar relatorio Sprint 2;
 - [x] Escrever um codigo em SQL para apresentar tabelas de dados 
-- [ ] Verificar Capacidade das fabricas;
+
 
 ## Sprint 3.
 - [x] Relacionar dados em SQL;
@@ -92,6 +92,7 @@ https://github.com/Geovane18/API6/assets/163420675/b4b7e0bd-1289-4b9e-9b90-b8ba8
 - [ ] Otimizar Rotas;
 - [ ] Integrar com APIs de mapas e serviços de trafegos para obter melhor informações sobre o trafego;
 - [ ] Estruturar Relarotio de entrega Sprint 3;
+- [ ] Verificar Capacidade das fabricas;
 
 ## Sprint 4
 - [ ] Otimizar Ferramentas Utilizadas
