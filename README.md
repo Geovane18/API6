@@ -30,6 +30,14 @@ Este Produto tem como Objetivo atender a necessidade do cliente criando de uma f
 
 # Registro do Produto
 
+* PBI criado para relacionar e verificar o custo por entrega de cada fabrica e custo médio.
+
+  
+
+https://github.com/Geovane18/API6/assets/163420675/acecee68-b15d-4dfe-9f5f-5e5f0abaf101
+
+
+
 * Foi utilizado o SublimeText para escrever um código em Phyton, com isso conseguimos unitizar as tabelas para uma melhor vizualição;
 
 Abaixo Podemos ver o Codigo utilizado;
