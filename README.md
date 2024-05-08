@@ -40,14 +40,6 @@ https://github.com/Geovane18/API6/assets/163420675/b4b7e0bd-1289-4b9e-9b90-b8ba8
 
 
 
-
-* Power BI criado para analise das entregas e Analise da produtividade sendo assim podendo ver detalhadamente cada rota e podendo apresentar soluções praticas.
-
- Abaixo temos uma visão sobre a produtividade e relação das entregas estabelicidas entre as fabricas analisadas;
-
-![Produtividade e Entregas](https://github.com/Geovane18/API6/assets/163420675/6e5e3e3d-f8bb-41e3-9259-ab2b53852522)
-
-
 * Codigo em SQL, foi criado um codigo em SQL unitizando as planilhas, e assim podendo nos informar de forma filtrada os fretes que queremos, no exemplo abaixo colocamos um filtro para verificar os fretes que o valor ultrapassaram 700 BRL
 
 
