@@ -52,7 +52,7 @@ https://github.com/Geovane18/API6/assets/163420675/b4b7e0bd-1289-4b9e-9b90-b8ba8
 
 
 
-[![VERIFICANDO FRETES ACIMA DE R$700]![download](https://github.com/Geovane18/API6/assets/163420675/11117e23-1f50-47e1-a914-83eb6f683b8d)](https://youtu.be/PVSEns9_qs8?si=AI6YN4lIhhgOThV6)
+[![download](https://github.com/Geovane18/API6/assets/163420675/11117e23-1f50-47e1-a914-83eb6f683b8d)](https://youtu.be/PVSEns9_qs8?si=AI6YN4lIhhgOThV6)
 
 
 
