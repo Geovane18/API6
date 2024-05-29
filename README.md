@@ -38,13 +38,16 @@ https://github.com/Geovane18/API6/assets/163420675/acecee68-b15d-4dfe-9f5f-5e5f0
 
 
 
-* Foi utilizado o SublimeText para escrever um código em Phyton, com isso conseguimos unitizar as tabelas para uma melhor vizualição;
+* Foi utilizado o SublimeText para escrever um código em Phyton, com isso conseguimos ver a otimização das rotas;
 
 Abaixo Podemos ver o Codigo utilizado;
 
 
 
-https://github.com/Geovane18/API6/assets/163420675/b4b7e0bd-1289-4b9e-9b90-b8ba8b72953b
+https://github.com/Geovane18/API6/assets/163420675/35d6f268-3126-48fa-bf20-d397796f8b8f
+
+
+
 
 
 
@@ -52,7 +55,7 @@ https://github.com/Geovane18/API6/assets/163420675/b4b7e0bd-1289-4b9e-9b90-b8ba8
 
 
 
-[![download](https://github.com/Geovane18/API6/assets/163420675/11117e23-1f50-47e1-a914-83eb6f683b8d)](https://youtu.be/PVSEns9_qs8?si=AI6YN4lIhhgOThV6)
+https://youtu.be/PVSEns9_qs8?si=AI6YN4lIhhgOThV6G
 
 
 
@@ -87,15 +90,15 @@ https://github.com/Geovane18/API6/assets/163420675/b4b7e0bd-1289-4b9e-9b90-b8ba8
 
 ## Sprint 3.
 - [x] Relacionar dados em SQL;
-- [ ] Desenvolver tela de Evolução dos Custos de fretes (BI);
-- [ ] Desenvolver Tela para comparativo de Gastos antes e Depois da aplicação do produto;
-- [ ] Otimizar Rotas;
-- [ ] Integrar com APIs de mapas e serviços de trafegos para obter melhor informações sobre o trafego;
-- [ ] Estruturar Relarotio de entrega Sprint 3;
-- [ ] Verificar Capacidade das fabricas;
+- [x] Desenvolver codigo .PY para otimização
+- [x] Desenvolver Tela para comparativo de Gastos antes e Depois da aplicação do produto;
+- [x] Otimizar Rotas;
+- [x] Estruturar Relarotio de entrega Sprint 3;
+- [x] Verificar Capacidade das fabricas;
 
 ## Sprint 4
 - [ ] Otimizar Ferramentas Utilizadas
+- [ ] Desenvolver tela de Evolução dos Custos de fretes (BI);
 - [ ] Realizar Testes das funcionalidades
 - [ ] Melhorar Interface do Produto
 - [ ] Entregar Produto final
