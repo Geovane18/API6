@@ -17,7 +17,7 @@ Sprint | Previsão | Status|
 |Kick Off | 13/03/2024 | concluido|
 |01 | 17/04/2024 | concluido |
 |02|  08/05/2024| concluido |
-|03| 29/05/2024 | a fazer|
+|03| 29/05/2024 | concluido |
 |04| 19/06/2024 |a fazer |
 |Feira de Soluções|27/06/2024 |a fazer |
 
