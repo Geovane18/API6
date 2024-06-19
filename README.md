@@ -100,11 +100,11 @@ https://github.com/Geovane18/API6/assets/163420675/738559ac-23bf-4b42-9703-9cc0f
 - [x] Verificar Capacidade das fabricas;
 
 ## Sprint 4
-- [ ] Otimizar Ferramentas Utilizadas
-- [ ] Desenvolver tela de Evolução dos Custos de fretes (BI);
-- [ ] Realizar Testes das funcionalidades
-- [ ] Melhorar Interface do Produto
-- [ ] Entregar Produto final
+- [x] Otimizar Ferramentas Utilizadas
+- [x] Desenvolver tela de Evolução dos Custos de fretes (BI);
+- [x] Realizar Testes das funcionalidades
+- [x] Melhorar Interface do Produto
+- [x] Entregar Produto final
 
 
 
