@@ -18,7 +18,7 @@ Sprint | Previsão | Status|
 |01 | 17/04/2024 | concluido |
 |02|  08/05/2024| concluido |
 |03| 29/05/2024 | concluido |
-|04| 19/06/2024 |a fazer |
+|04| 19/06/2024 |concluido |
 |Feira de Soluções|27/06/2024 |a fazer |
 
 # Objetivo do Projeto
